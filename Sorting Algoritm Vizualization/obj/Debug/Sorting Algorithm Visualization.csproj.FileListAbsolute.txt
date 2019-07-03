@@ -1,0 +1,10 @@
+D:\Programozás Fun Projectek\Sorting Algoritm Visualization\Sorting Algoritm Vizualization\obj\Debug\Sorting Algorithm Visualization.csprojAssemblyReference.cache
+D:\Programozás Fun Projectek\Sorting Algoritm Visualization\Sorting Algoritm Vizualization\obj\Debug\Sorting Algorithm Visualization.csproj.GenerateResource.cache
+D:\Programozás Fun Projectek\Sorting Algoritm Visualization\Sorting Algoritm Vizualization\obj\Debug\Sorting Algorithm Visualization.csproj.CoreCompileInputs.cache
+D:\Programozás Fun Projectek\Sorting Algoritm Visualization\Sorting Algoritm Vizualization\bin\Debug\Sorting Algorithms Visualization.exe.config
+D:\Programozás Fun Projectek\Sorting Algoritm Visualization\Sorting Algoritm Vizualization\bin\Debug\Sorting Algorithms Visualization.exe
+D:\Programozás Fun Projectek\Sorting Algoritm Visualization\Sorting Algoritm Vizualization\bin\Debug\Sorting Algorithms Visualization.pdb
+D:\Programozás Fun Projectek\Sorting Algoritm Visualization\Sorting Algoritm Vizualization\obj\Debug\Sorting_Algorithms_Visualization.Properties.Resources.resources
+D:\Programozás Fun Projectek\Sorting Algoritm Visualization\Sorting Algoritm Vizualization\obj\Debug\Sorting Algorithms Visualization.exe
+D:\Programozás Fun Projectek\Sorting Algoritm Visualization\Sorting Algoritm Vizualization\obj\Debug\Sorting Algorithms Visualization.pdb
+D:\Programozás Fun Projectek\Sorting Algoritm Visualization\Sorting Algoritm Vizualization\obj\Debug\Sorting_Algoritm_Vizualization.Sorting_Form.resources
